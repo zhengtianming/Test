@@ -1,0 +1,35 @@
+{
+  "name": "questionnaire",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "aaa": "0.0.2",
+    "axios": "^0.18.0",
+    "bmap": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "echarts": "^4.2.1",
+    "jquery": "^3.4.1",
+    "vant": "^1.6.9",
+    "vue": "^2.6.10",
+    "vue-baidu-map": "^0.21.20",
+    "vue-router": "^3.0.6",
+    "vue-wechat-title": "^2.0.5",
+    "vuex": "^3.0.1",
+    "weixin-js-sdk": "^1.4.0-test"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-plugin-eslint": "^3.5.0",
+    "@vue/cli-service": "^3.6.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.11.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
